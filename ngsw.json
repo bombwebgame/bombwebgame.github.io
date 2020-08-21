@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597985799731,
+  "timestamp": 1597986090185,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "./4.ec9996864f3b1f90824a.js",
+        "./4.37b2e228487d95e04636.js",
         "./favicon.ico",
         "./index.html",
         "./main.17eecbb0379f31cdef4f.js",
         "./manifest.webmanifest",
         "./polyfills.57eae580079a5760936b.js",
-        "./runtime.0bab1c1397696e991224.js",
+        "./runtime.6e9d1e14ee24160fd941.js",
         "./styles.15de993d6c1f08ea4fc5.css"
       ],
       "patterns": []
@@ -117,7 +117,7 @@
     "./00_intro_bg.58b1432ce20a8063cf4f.jpg": "4e87df835217007e9ee63c0cff85e149c861a77a",
     "./01-01_main_popup_bg.630232a91c69d32b7626.png": "397a956035bdb0c96654770c2a52f598673367b5",
     "./01-02_main_manual_popup_bg.84452e4f498b008d0eb8.png": "e4e7aa0d6c1a5b564e3614d649209e6be2b7bd9d",
-    "./4.ec9996864f3b1f90824a.js": "1f925917fb193c001e1a59374121bb533b647a8c",
+    "./4.37b2e228487d95e04636.js": "5c711f14e5a6ecf0e5a865a0f7d2cace1667c49e",
     "./assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "./assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "./assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -194,11 +194,11 @@
     "./assets/images/02-02_game_ani_02.gif": "0f617523ec422738ff90ef484820d0516475a353",
     "./assets/images/02-02_game_ani_03.gif": "026e47a16175ffb07292e1117ce731b1c1a35438",
     "./favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "./index.html": "2c1f0826a24a3a3673b772ac7978df2083e0fb01",
+    "./index.html": "7d94d614a228f9408038f15e7f6e8a9c3ff757da",
     "./main.17eecbb0379f31cdef4f.js": "546b94c7e136ec23f31ae03d64ce7173ff2a7e84",
     "./manifest.webmanifest": "4e46aad0b5256e5c4e56d200e793c867ac3aacb5",
     "./polyfills.57eae580079a5760936b.js": "91f4e3fd70316d9cb796b0ec07e8fe7fbbf93b15",
-    "./runtime.0bab1c1397696e991224.js": "cd9f1712ced01c6e2b18a4af54e49070b627aaa2",
+    "./runtime.6e9d1e14ee24160fd941.js": "8c039e05f290afd0252dd05f2be9b5f63b1fbfd3",
     "./styles.15de993d6c1f08ea4fc5.css": "bc0beb9d014429df2fd18c27e8bdfa03effc9988"
   },
   "navigationUrls": [

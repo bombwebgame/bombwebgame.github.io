@@ -1,6 +1,6 @@
 {
-  "name": "bomb-web",
-  "short_name": "bomb-web",
+  "name": "폭탄돌리기",
+  "short_name": "폭탄돌리기",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",

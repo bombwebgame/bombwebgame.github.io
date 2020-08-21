@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597989814784,
+  "timestamp": 1597992941451,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "./4.07fb3f9423aeac0473e8.js",
+        "./4.906dae8b0dc98ceea4ef.js",
         "./favicon.ico",
         "./index.html",
-        "./main.dab18609fc974fc02d90.js",
+        "./main.5462ad41774c1ef7ac51.js",
         "./manifest.webmanifest",
         "./polyfills.57eae580079a5760936b.js",
-        "./runtime.e66e901f0d0d3f74e909.js",
+        "./runtime.843e8ea221c95154dda2.js",
         "./styles.15de993d6c1f08ea4fc5.css"
       ],
       "patterns": []
@@ -107,7 +107,9 @@
         "./assets/images/02-01_game_start_08_01.png",
         "./assets/images/02-02_game_ani_01.gif",
         "./assets/images/02-02_game_ani_02.gif",
-        "./assets/images/02-02_game_ani_03.gif"
+        "./assets/images/02-02_game_ani_03.gif",
+        "./assets/ios-add-btn.png",
+        "./assets/ios-menu-btn.png"
       ],
       "patterns": []
     }
@@ -117,7 +119,7 @@
     "./00_intro_bg.58b1432ce20a8063cf4f.jpg": "4e87df835217007e9ee63c0cff85e149c861a77a",
     "./01-01_main_popup_bg.630232a91c69d32b7626.png": "397a956035bdb0c96654770c2a52f598673367b5",
     "./01-02_main_manual_popup_bg.84452e4f498b008d0eb8.png": "e4e7aa0d6c1a5b564e3614d649209e6be2b7bd9d",
-    "./4.07fb3f9423aeac0473e8.js": "579676366356c4a822dec6644987a25b87ba5c3e",
+    "./4.906dae8b0dc98ceea4ef.js": "e6cb9456d6a403b0e5944e7a02b537e4a1c5ae8a",
     "./assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "./assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "./assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -193,12 +195,14 @@
     "./assets/images/02-02_game_ani_01.gif": "0cd6f5fcc047ead72a7b640275281c934daa212c",
     "./assets/images/02-02_game_ani_02.gif": "0f617523ec422738ff90ef484820d0516475a353",
     "./assets/images/02-02_game_ani_03.gif": "026e47a16175ffb07292e1117ce731b1c1a35438",
+    "./assets/ios-add-btn.png": "b04f8aff472620d61612217ef4b2cd94f07b914b",
+    "./assets/ios-menu-btn.png": "85935a3142fbdca3ebd69db254792588e3c48b13",
     "./favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "./index.html": "e811140a9e299b04e00077665cb04ac99031b0fb",
-    "./main.dab18609fc974fc02d90.js": "dd90e555ca106ae9a15e58a19361e01ec69e9e77",
+    "./index.html": "30fc19472c00f310f62f0644325652b4ecf298ae",
+    "./main.5462ad41774c1ef7ac51.js": "4b4ae91486011d17f9e35455271da5d5156d8232",
     "./manifest.webmanifest": "4e46aad0b5256e5c4e56d200e793c867ac3aacb5",
     "./polyfills.57eae580079a5760936b.js": "91f4e3fd70316d9cb796b0ec07e8fe7fbbf93b15",
-    "./runtime.e66e901f0d0d3f74e909.js": "ad59741b75e9b606e2e5adc0070868961cc4f8e4",
+    "./runtime.843e8ea221c95154dda2.js": "b2b8491e57e89efb0030a90d11c75f498cf29342",
     "./styles.15de993d6c1f08ea4fc5.css": "bc0beb9d014429df2fd18c27e8bdfa03effc9988"
   },
   "navigationUrls": [
